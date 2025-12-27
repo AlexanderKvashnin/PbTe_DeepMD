@@ -6,7 +6,8 @@ Trained [DeepMD](https://github.com/deepmodeling/deepmd-kit) potentials for simu
 [TePbCuAg_pot.pb](https://github.com/AlexanderKvashnin/PbTe_DeepMD/blob/main/TePbCuAg_pot.pb) - is the potential designed for simulations of mechanical properties of PbTe with presence of interstitial defects of Cu and Ag together with intrinsic defects like Pb/Te vacancies, Pb-to-Te substitutions 
 
 
-Datasets of pure PbTe and doped with Bi, Na, Cu, and Ag together with intrinsic defects like Pb/Te vacancies, Pb-to-Te substitutions
+Datasets of pure PbTe and doped with Bi, Na, Cu, and Ag together with intrinsic defects like Pb/Te vacancies, Pb-to-Te substitutions. 
+Datasets are available from the [AISSQUARE](https://www.aissquare.com/datasets/detail?pageType=datasets&name=DeePMD_doped_PbTe_mechanics&id=394) repository.
 
 TePbBiNa.zip - dataset suitable for simulations of mechanical properties of PbTe with presence of substitutional defects of Bi and Na together with intrinsic defects like Pb/Te vacancies, Pb-to-Te substitutions
 
