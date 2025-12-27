@@ -1,4 +1,8 @@
-# PbTe_DeepMD
+# DeepMD model and dataset for simulations of mechanics of doped PbTe
+
+<img width="2063" height="722" alt="image" src="https://github.com/user-attachments/assets/dadcccc8-3798-4414-9ef8-cc418fe94a55" />
+
+
 Trained [DeepMD](https://github.com/deepmodeling/deepmd-kit) potentials for simulations of mechanical properties of doped PbTe materials
 
 [TePbBiNa_pot.pb](https://github.com/AlexanderKvashnin/PbTe_DeepMD/blob/main/TePbBiNa_pot.pb) - is the potential designed for simulations of mechanical properties of PbTe with presence of substitutional defects of Bi and Na together with intrinsic defects like Pb/Te vacancies, Pb-to-Te substitutions 
